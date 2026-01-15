@@ -4,3 +4,5 @@
 🖥️&nbsp;&nbsp;&nbsp;Aspiring Software Developer  
 
 [LinkedIn](https://www.linkedin.com/in/kfengg/)
+
+Currently building my [Portfolio!](https://github.com/kevinf58/portfolio)

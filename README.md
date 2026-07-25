@@ -6,9 +6,6 @@
 <br />
 🌱&nbsp;&nbsp;&nbsp;Interested in: systems programming, networking, and dev tooling
 <br /><br />
-🔩&nbsp;&nbsp;&nbsp;Currently building my [Portfolio!](https://github.com/kevinf58/portfolio)
+🔩&nbsp;&nbsp;&nbsp;Currently building my [Portfolio](https://github.com/kevinf58/portfolio) and [Home Lab](https://github.com/kevinf58/homelab)!
 <br /><br /><br />
-📫&nbsp;&nbsp;&nbsp;Reach Me Via
-[Email](kevinfng12@gmail.com)
-or
-[LinkedIn](https://www.linkedin.com/in/kfengg/)
+📫&nbsp;&nbsp;&nbsp;Reach Me Via [Email](kevinfng12@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kfengg/)
